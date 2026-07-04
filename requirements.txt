@@ -1,0 +1,6 @@
+# UnitClaw Python 依赖清单
+# 核据实际项目需求增减
+numpy>=1.24.0
+opencv-python>=4.8.0
+scipy>=1.10.0
+matplotlib>=3.7.0
